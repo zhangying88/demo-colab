@@ -2,7 +2,7 @@
 function test(){
   var_dump("test");
 //Commentaire
-  return "retourner autre chose";
+  return "retour";
 }
 function toto(){
 	return 	var_dump("Bonjours, Toto !!! ");
