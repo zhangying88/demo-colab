@@ -8,6 +8,6 @@ function toto(){
 	return 	var_dump("Bonjours, Toto !!! ");
 }
 
-//four
+
 
 ?>
